@@ -1,4 +1,2 @@
 title: mitchejones.github.io
-remote_theme: "mmistakes/minimal-mistakes@4.26.0"
-plugins:
-  - jekyll-include-cache
+theme: jekyll-theme-minimal
