@@ -1,2 +1,3 @@
 title: mitchejones.github.io
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-include-cache
